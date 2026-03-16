@@ -1,24 +1,52 @@
-## Hey 👋, I'm [Yuxin(Estella) Huang](https://github.com/yx-hh/)
+# Hey there! I'm [Yuxin/Estella Huang](https://github.com/yx-hh/) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yx-hh)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yx-hh.github.io/)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=yx-hh)
-I was a graduate student 🎓 of Software Engineering at the University of California, Irvine 🏛 and graduated in Dec 2022!
+## Glad to see you here &nbsp; ![](https://komarev.com/ghpvc/?username=yx-hh)
 
-- Now I am actively looking for a software engineer job, especially in backend and full stack development!
-- Last summer, I worked at Meta as a software engineer intern for the Flow team. Flow is Facebook's popular open-source project used for JavaScript syntax checking, I was responsible for programming to upgrade flow from a standalone service to a distributed one by functional programming language -Ocaml in order to improve the checking speed and increase JavaScript Developers' working efficiency. 
-- I have more than 3 years in real working environments as a senior software engineer in Shanghai, China, and have rich experience in java back-end development. I specialized in middleware such as Redis, RabbitMQ, and Concurrent programming. 
-- I once participated in building complex systems, with R&D experience in large-scale projects such as CAF which provided a fundamental development framework for over 2000 DEV teams. 
-- I also have the experience of mentoring interns and leading a small team with 2~3 people to develop a distributed Springboot project such as Document Search Service. So I am familiar with how to cooperate with teammates, how to figure out difficult questions, how to negotiate with product managers, and how to lead a small team. 
-- At the same time, I can design programs and implement them with high performance and efficiency such as the online shopping cart center and SonarQube Scanning Platform. In my free time, I would hold technology-sharing sessions with others. 
+I am a senior Backend Engineer with 7+ years of experience building large-scale, 
+distributed systems across fintech, edtech, and enterprise platforms.
 
+## 🚀 What I'm working on
+- Building production-grade payment-adjacent systems at **Finfare** — 
+  billing infrastructure, redemption services, and cloud-native AWS deployments
+- Designing systems that handle **100K+ concurrent requests** with high 
+  availability and data integrity
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👩‍💻 I'm currently into Backend Software Development 🕸️ , Middleware development, Data Structures and Algorithms 🤓.  
+## 💼 Career highlights
+- 🏦 **Finfare** — Led backend architecture for rewards, billing & connect 
+  platform; reduced CI/CD deployment time by 40–60% through pipeline redesign
+- 👥 **Meta** — Upgraded Flow (21K+ ⭐ open-source project) from standalone 
+  to distributed service using OCaml
+- 🛒 **Zhangmen Education** — Built distributed shopping cart for 290K+ clients
+- 🏢 **CPIC** — Developed core framework adopted by 2000+ dev teams
+- 🏢 **Rock Fintech** - Developed commercial bank account mangement system
 
-### Things I can help
+## 🛠️ Tech Stack
+**Languages:** Java (8+ yrs) · Kotlin · Python · TypeScript · OCaml · HTML · CSS · JavaScript 
 
-Before pursuing my master's degree, I worked for over 3 years in Shanghai, China as a software engineer, so If you want to know things like technical solutions for distributed System and backend development, Please feel free to contact me!
+**Backend:** Spring Boot · Spring Cloud · Distributed Systems · 
+Microservices · RESTful APIs · Concurrent Programming
+
+**Data:** MySQL · PostgreSQL · Elasticsearch · MongoDB · Redis · Kafka · RabbitMQ
+
+**Cloud & DevOps:** AWS (ECS · S3 · CloudFront · API Gateway · CDK) · 
+Docker · GitHub Actions · DataDog · Jenkins
+
+## 🎓 Education
+- M.S. Software Engineering — UC Irvine (GPA 3.9/4.0)
+- B.E. Electronic Information Engineering — China Three Gorges University
+
+## 💡 I can help with
+Distributed systems design · High-concurrency backend architecture · 
+AWS cloud infrastructure · Financial systems & data pipelines · 
+CI/CD pipeline optimization
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yx--hh-blue)](https://linkedin.com/in/yx-hh)
+[![GitHub](https://img.shields.io/badge/GitHub-yx--hh-black)](https://github.com/yx-hh)
+
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" />
 
